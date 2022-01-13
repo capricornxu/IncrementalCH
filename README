@@ -1,0 +1,15 @@
+
+-----Introduction-----
+This is a project from for CS163 in Tufts and it performs the construction of a convex hull via incremental approach.
+
+
+-----REQUIREMENTS-----
+This project requires LEDA-6.1
+
+-----What I learn-----
+1> I learnt how to use leda
+2> I learnt how to transform a geometric algorithm into a visualization program
+3> I am more familiar with C++
+4> I learnt how to debug using gdb command
+5> I learnt how to write a complete Convex Hull algorithm. We assumed that the gien points are in general position in class. But I have to deal with them when I visualize it
+6> I implemented a doubly linked list to maintain the points on Convex Hull
